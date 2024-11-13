@@ -5,3 +5,7 @@ body {
 header {
     text-align: center;
 }
+
+.principal img{
+    width: 120px
+}
